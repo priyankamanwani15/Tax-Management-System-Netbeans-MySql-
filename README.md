@@ -1,8 +1,3 @@
-![image](https://github.com/user-attachments/assets/5c45dcfe-2d1c-4bc7-a69e-cc6d9be0aff6)
-![image](https://github.com/user-attachments/assets/05c01052-e392-470d-a5dd-8a480918478d)
-![image](https://github.com/user-attachments/assets/4d802378-1114-42f7-a9f6-f637b991923a)
-![image](https://github.com/user-attachments/assets/554eb594-6551-4cd4-9547-b1146caa6ae3)
-![image](https://github.com/user-attachments/assets/14b9637e-6752-4f39-8b96-9d918203f4d4)
 
 ### Tax Calculation System
 
@@ -37,3 +32,9 @@ This Java-based project, developed in NetBeans using Maven, is designed to assis
 3. you can import the zip file too if you want by importing a project.
 4. install xaamp for backend and download connector file for mysql and netbeans.
 5. build the project with dependencies and you are good to go.
+
+![image](https://github.com/user-attachments/assets/5c45dcfe-2d1c-4bc7-a69e-cc6d9be0aff6)
+![image](https://github.com/user-attachments/assets/05c01052-e392-470d-a5dd-8a480918478d)
+![image](https://github.com/user-attachments/assets/4d802378-1114-42f7-a9f6-f637b991923a)
+![image](https://github.com/user-attachments/assets/554eb594-6551-4cd4-9547-b1146caa6ae3)
+![image](https://github.com/user-attachments/assets/14b9637e-6752-4f39-8b96-9d918203f4d4)
